@@ -1,2 +1,2 @@
-# FPL_Project
+# FPL_Ironhack_Project
 Fantasy Premier League Project
